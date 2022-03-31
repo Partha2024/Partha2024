@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Full Stack Development
 <!--
 **Partha2024/Partha2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
